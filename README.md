@@ -1,1 +1,1 @@
-This Projet is related to Power Bi. In this i have analyzed data, visualize and presents data effectively.This includes tasks like cleaning, transforming, visualization and creating interactive reports.
+These Projets are related to diferent Data Sources like E-Commerce Sales Data, HealthCare Projects, Business Projects etc using Power-Bi. Here I have analyzed data, visualize and presents data effectively.These include tasks like cleaning, transforming, visualization and creating interactive dasboards using different customized charts.
