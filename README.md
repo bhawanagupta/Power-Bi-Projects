@@ -1,1 +1,1 @@
-# Power-Bi-Projects
+This Projet is related to Power Bi. In this i have analyzed data, visualize and presents data effectively.This includes tasks like cleaning, transforming, visualization and creating interactive reports.
